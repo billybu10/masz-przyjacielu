@@ -1,0 +1,10 @@
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\bin\Debug\rzutukosny.exe.config
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\bin\Debug\rzutukosny.exe
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\bin\Debug\rzutukosny.pdb
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\obj\Debug\rzutukosny.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\obj\Debug\rzutukosny.Form1.resources
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\obj\Debug\rzutukosny.Properties.Resources.resources
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\obj\Debug\rzutukosny.csproj.GenerateResource.cache
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\obj\Debug\rzutukosny.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\obj\Debug\rzutukosny.exe
+D:\Robotaju\PDZ\rzutukosny\rzutukosny\obj\Debug\rzutukosny.pdb
