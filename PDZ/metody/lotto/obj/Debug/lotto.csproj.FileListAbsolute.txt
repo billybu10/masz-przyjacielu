@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\metody\lotto\obj\Debug\lotto.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\metody\lotto\obj\Debug\lotto.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\metody\lotto\bin\Debug\lotto.exe.config
+D:\Robotaju\PDZ\metody\lotto\bin\Debug\lotto.exe
+D:\Robotaju\PDZ\metody\lotto\bin\Debug\lotto.pdb
+D:\Robotaju\PDZ\metody\lotto\obj\Debug\lotto.exe
+D:\Robotaju\PDZ\metody\lotto\obj\Debug\lotto.pdb

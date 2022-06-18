@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\metody\metody\bin\Debug\metody.exe.config
+D:\Robotaju\PDZ\metody\metody\bin\Debug\metody.exe
+D:\Robotaju\PDZ\metody\metody\bin\Debug\metody.pdb
+D:\Robotaju\PDZ\metody\metody\obj\Debug\metody.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\metody\metody\obj\Debug\metody.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\metody\metody\obj\Debug\metody.exe
+D:\Robotaju\PDZ\metody\metody\obj\Debug\metody.pdb
