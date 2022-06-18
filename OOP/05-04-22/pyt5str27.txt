@@ -1,0 +1,6 @@
+blok początkowy-reprezentuje początek programu lub podprogramu
+blok końcowy-reprezentuje koniec działania programu lub podprogramu
+blok wejścia/wyjścia - reprezentuje operacje odczytu z urządzenia wejścia oraz wyświetlania informacji na urządzeniach wyjścia
+blok operacji - reprezentuje działania matematyczne oraz zmiany wartości zmiennych
+blok decyzyjny - reprezentuje operacje warunkowe
+blok podprogramu - reprezentuje wywołanie podprogramu

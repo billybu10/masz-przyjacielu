@@ -1,0 +1,1 @@
+Instrukcja wyboru switch dokonuje decyzji na podstawie dokładnej wartości danej zmiennej.

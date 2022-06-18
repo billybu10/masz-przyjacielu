@@ -1,0 +1,1 @@
+Przestrzenie nazw służą do organizowania kodu w grupy logiczne i zapobiegania kolizjom nazw, które mogą wystąpić szczególnie wtedy, gdy baza kodu zawiera wiele bibliotek.

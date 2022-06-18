@@ -1,0 +1,42 @@
+wprowadza()
+	wprowadź z klawiatury a
+	return a
+
+wprowadzb()
+	wprowadź z klawiatury b
+	return b
+
+wprowadzc()
+	wprowadź z klawiatury c
+	return c
+
+obliczobj(a,b,c)
+	objętość = a*b*c
+	return objętość
+
+obliczppc(a,b,c)
+	polepc = 2*a*b + 2*b*c + 2*a*c
+	return polepc
+
+obliczkraw(a,b,c)
+	krawędzie = 4*a + 4*b + 4*c
+	return krawędzie
+
+wypiszobj(objętość)
+	wypisz objętość
+
+wypiszpolepc(polepc)
+	wypisz polepc
+
+wypiszkraw(krawędzie)
+	wypisz krawędzie
+
+a=wprowadza()
+b=wprowadzb()
+c=wprowadzc()
+objętość = obliczobj(a,b,c)
+polepc = obliczppc(a,b,c)
+krawędzie = obliczkraw(a,b,c)
+wypiszobj(objętość)
+wypiszpolepc(polepc)
+wypiszkraw(krawędzie)

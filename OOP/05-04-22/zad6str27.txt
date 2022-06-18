@@ -1,0 +1,5 @@
+1. wczytaj r
+2. pole = PI*r*r
+3. obwód = 2*PI*r
+4. wypisz pole
+5. wypisz obwód

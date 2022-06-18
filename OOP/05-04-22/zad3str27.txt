@@ -1,0 +1,9 @@
+wprowadź z klawiatury a
+wprowadź z klawiatury b
+wprowadź z klawiatury c
+objętość = a*b*c
+polepc = 2*a*b + 2*b*c + 2*a*c
+krawędzie = 4*a + 4*b + 4*c
+wypisz objętość
+wypisz polepc
+wypisz krawędzie

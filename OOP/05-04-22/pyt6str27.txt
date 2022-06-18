@@ -1,0 +1,5 @@
+*ma być zrozumiały dla każdego programisty niezależnie od stopnia zaawansowania
+*jedynie proste struktury programistyczne i.e. if, if-else, while, do-while
+*wcięcia w celu czytelności
+*stosowanie konwencji nazewniczych np. stałe dużymi literami, camelCase
+*musi być kompletny
