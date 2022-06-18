@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\Zadania\Lotto\choinka\bin\Debug\choinka.exe.config
+D:\Robotaju\PDZ\Zadania\Lotto\choinka\bin\Debug\choinka.exe
+D:\Robotaju\PDZ\Zadania\Lotto\choinka\bin\Debug\choinka.pdb
+D:\Robotaju\PDZ\Zadania\Lotto\choinka\obj\Debug\choinka.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\Lotto\choinka\obj\Debug\choinka.exe
+D:\Robotaju\PDZ\Zadania\Lotto\choinka\obj\Debug\choinka.pdb
+D:\Robotaju\PDZ\Zadania\Lotto\choinka\obj\Debug\choinka.csprojAssemblyReference.cache

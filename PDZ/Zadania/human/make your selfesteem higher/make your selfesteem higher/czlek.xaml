@@ -1,0 +1,39 @@
+﻿<Window x:Class="make_your_selfesteem_higher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:make_your_selfesteem_higher"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1214.096" Width="713.158">
+    <Grid Height="993" VerticalAlignment="Top">
+        <Grid.Background>
+            <ImageBrush ImageSource="media/narzady_cut.jpg"/>
+        </Grid.Background>
+        <CheckBox x:Name="zoladekcheckbox" Content="Żołądek" HorizontalAlignment="Left" Margin="439,420,0,0" VerticalAlignment="Top" Height="45" Width="107" FontSize="24"/>
+        <TextBox x:Name="zoladek_war" HorizontalAlignment="Left" Height="45" Margin="546,420,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <CheckBox x:Name="sercecheckbox" Content="Serce" HorizontalAlignment="Left" Margin="460,228,0,0" VerticalAlignment="Top" Height="45" Width="86" FontSize="24"/>
+        <TextBox x:Name="serce_war" HorizontalAlignment="Left" Height="45" Margin="546,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <CheckBox x:Name="jelitogrubcheckbox" Content="Jelito grube" HorizontalAlignment="Left" Margin="10,784,0,0" VerticalAlignment="Top" Height="40" Width="163" FontSize="24"/>
+        <TextBox x:Name="muzg_war_Copy1" HorizontalAlignment="Left" Height="45" Margin="26,824,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <CheckBox x:Name="watrobacheckbox" Content="Wątroba" HorizontalAlignment="Left" Margin="15,603,0,0" VerticalAlignment="Top" Height="45" Width="86" FontSize="24"/>
+        <TextBox x:Name="watroba_war" HorizontalAlignment="Left" Height="45" Margin="101,603,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <CheckBox x:Name="muzgcheckbox" Content="Muzg" HorizontalAlignment="Left" Margin="10,228,0,0" VerticalAlignment="Top" Height="45" Width="86" FontSize="24"/>
+        <TextBox x:Name="muzg_war" HorizontalAlignment="Left" Height="45" Margin="101,228,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <CheckBox x:Name="plucacheckbox" Content="Płuca" HorizontalAlignment="Left" Margin="10,420,0,0" VerticalAlignment="Top" Height="45" Width="86" FontSize="24"/>
+        <TextBox x:Name="pluca_war" HorizontalAlignment="Left" Height="45" Margin="101,420,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <CheckBox x:Name="nerkicheckbox" Content="Nerki" HorizontalAlignment="Left" Margin="467,603,0,0" VerticalAlignment="Top" Height="45" Width="86" FontSize="24"/>
+        <TextBox x:Name="nerki_war" HorizontalAlignment="Left" Height="45" Margin="558,603,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <CheckBox x:Name="jelitocienkiecheckbox" Content="Jelito cienkie" HorizontalAlignment="Left" Margin="467,784,0,0" VerticalAlignment="Top" Height="40" Width="171" FontSize="24"/>
+        <TextBox x:Name="jelitocienkie_war" HorizontalAlignment="Left" Height="45" Margin="467,824,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="24"/>
+        <Label x:Name="usd" Content="Kurs USD: " HorizontalAlignment="Left" Height="44" Margin="190,995,0,-46" VerticalAlignment="Top" Width="123" FontSize="24"/>
+        <TextBox x:Name="usddane" HorizontalAlignment="Left" Height="44" Margin="318,995,0,-46" TextWrapping="Wrap" Text="4.30" VerticalAlignment="Top" Width="88" FontSize="24" BorderBrush="White"/>
+        <CheckBox x:Name="palisz" Content="Palisz?" HorizontalAlignment="Left" Height="44" Margin="490,995,0,-46" VerticalAlignment="Top" Width="124" FontSize="24"/>
+        <CheckBox x:Name="narkotyki" Content="Narkotyki?" HorizontalAlignment="Left" Height="44" Margin="490,1044,0,-95" VerticalAlignment="Top" Width="148" FontSize="24"/>
+        <Label x:Name="label" Content="Ile jesteś wart w USD:" HorizontalAlignment="Left" Height="44" Margin="26,1044,0,-95" VerticalAlignment="Top" Width="234" FontSize="24"/>
+        <Label x:Name="label_Copy" Content="Ile jesteś wart w PLN:" HorizontalAlignment="Left" Height="44" Margin="26,1088,0,-139" VerticalAlignment="Top" Width="234" FontSize="24"/>
+        <Label x:Name="endusd" Content="0" HorizontalAlignment="Left" Height="44" Margin="265,1044,0,-95" VerticalAlignment="Top" Width="220" FontSize="24"/>
+        <Label x:Name="endpln" Content="0" HorizontalAlignment="Left" Height="44" Margin="265,1088,0,-139" VerticalAlignment="Top" Width="220" FontSize="24"/>
+
+    </Grid>
+</Window>

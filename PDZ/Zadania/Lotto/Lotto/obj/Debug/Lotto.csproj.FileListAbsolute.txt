@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\Zadania\Lotto\Lotto\obj\Debug\Lotto.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\Zadania\Lotto\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\Lotto\Lotto\bin\Debug\Lotto.exe.config
+D:\Robotaju\PDZ\Zadania\Lotto\Lotto\bin\Debug\Lotto.exe
+D:\Robotaju\PDZ\Zadania\Lotto\Lotto\bin\Debug\Lotto.pdb
+D:\Robotaju\PDZ\Zadania\Lotto\Lotto\obj\Debug\Lotto.exe
+D:\Robotaju\PDZ\Zadania\Lotto\Lotto\obj\Debug\Lotto.pdb
