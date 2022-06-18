@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><JavaBlocks author="zse" scriptEngine="JavaScript" version="6010">
+  <option fullConnectorValues="true" grid="false" pascal="false"/>
+  <flowchart name="Start">
+    <canvas interval="200" posX="270.0" posY="2.375" zoom="6"/>
+    <blocks>
+      <block id="1" name="Start" type="START">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="-120.0"/>
+        <comment>Start</comment>
+        <connect ID="3"/>
+      </block>
+      <block id="2" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="320.0"/>
+        <comment>End</comment>
+      </block>
+      <block id="3" type="SCRIPT">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="-60.0"/>
+        <comment>pole = podajA()</comment>
+        <connect ID="4"/>
+        <scriptName>pole = podajA()</scriptName>
+        <javascript>pole = podajA()</javascript>
+      </block>
+      <block id="4" type="SCRIPT">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="-20.0"/>
+        <comment>pole = podajB()</comment>
+        <connect ID="27"/>
+        <scriptName>pole = podajB()</scriptName>
+        <javascript>pole = podajB()</javascript>
+      </block>
+      <block id="5" type="COMMENT">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-400.0" posY="-260.0"/>
+        <content>podajA()</content>
+        <connect ID="6"/>
+      </block>
+      <block id="6" type="IO">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-400.0" posY="-180.0"/>
+        <content>Podaj a</content>
+        <connect ID="7"/>
+      </block>
+      <block id="7" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="-400.0" posY="-90.0"/>
+        <content>return a</content>
+        <comment>RETURN a</comment>
+      </block>
+      <block id="8" type="COMMENT">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-500.0" posY="-260.0"/>
+        <content>podajB()</content>
+        <connect ID="9"/>
+      </block>
+      <block id="9" type="IO">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-500.0" posY="-180.0"/>
+        <content>Podaj b</content>
+        <connect ID="10"/>
+      </block>
+      <block id="10" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="-500.0" posY="-90.0"/>
+        <content>return b</content>
+        <comment>RETURN a</comment>
+      </block>
+      <block id="11" type="SCRIPT">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="140.0"/>
+        <comment>pole = obliczPole(a,b)</comment>
+        <connect ID="18"/>
+        <scriptName>pole = obliczPole(a,b)</scriptName>
+        <javascript>pole = obliczPole(a,b)</javascript>
+      </block>
+      <block id="12" type="COMMENT">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-290.0" posY="-260.0"/>
+        <content>obliczPole()</content>
+        <connect ID="13"/>
+      </block>
+      <block id="13" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="-290.0" posY="-90.0"/>
+        <content>return pole</content>
+        <comment>RETURN pole</comment>
+      </block>
+      <block id="14" type="CPU">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-290.0" posY="-180.0"/>
+        <content>pole = a*b</content>
+      </block>
+      <block id="15" type="COMMENT">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-170.0" posY="-250.0"/>
+        <content>obliczObw()</content>
+        <connect ID="16"/>
+      </block>
+      <block id="16" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="-170.0" posY="-80.0"/>
+        <content>return obw</content>
+        <comment>RETURN obw</comment>
+      </block>
+      <block id="17" type="CPU">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-170.0" posY="-170.0"/>
+        <content>obw = a*b</content>
+      </block>
+      <block id="18" type="SCRIPT">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="180.0"/>
+        <comment>pole = obliczObw(a,b)</comment>
+        <connect ID="25"/>
+        <scriptName>pole = obliczObw(a,b)</scriptName>
+        <javascript>pole = obliczObw(a,b)</javascript>
+      </block>
+      <block id="19" type="COMMENT">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-350.0" posY="-20.0"/>
+        <content>wypiszObw(obw)</content>
+        <connect ID="20"/>
+      </block>
+      <block id="20" type="IO">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-350.0" posY="60.0"/>
+        <content>wypisz obw</content>
+        <connect ID="21"/>
+      </block>
+      <block id="21" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="-350.0" posY="140.0"/>
+        <content>end</content>
+        <comment>END</comment>
+      </block>
+      <block id="22" type="COMMENT">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-500.0" posY="-20.0"/>
+        <content>wypiszPole(pole)</content>
+        <connect ID="23"/>
+      </block>
+      <block id="23" type="IO">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="-500.0" posY="60.0"/>
+        <content>wypisz pole</content>
+        <connect ID="24"/>
+      </block>
+      <block id="24" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="-500.0" posY="150.0"/>
+        <content>end</content>
+        <comment>END</comment>
+      </block>
+      <block id="25" type="SCRIPT">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="220.0"/>
+        <comment>wypiszPole(pole)</comment>
+        <connect ID="26"/>
+        <scriptName>wypiszPole(pole)</scriptName>
+      </block>
+      <block id="26" type="SCRIPT">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="0.0" posY="260.0"/>
+        <comment>wypiszObw(obw)</comment>
+        <connect ID="2"/>
+        <scriptName>wypiszObw(obw)</scriptName>
+      </block>
+      <block id="27" type="DECISION">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="0.0" posY="30.0"/>
+        <content>a&lt;=0</content>
+        <connect ID="32" value="true"/>
+        <connect ID="28" value="false"/>
+      </block>
+      <block id="28" type="DECISION">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="0.0" posY="90.0"/>
+        <content>b&lt;=0</content>
+        <connect ID="32" value="true"/>
+        <connect ID="11" value="false"/>
+      </block>
+      <block id="29" type="COMMENT">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="250.0" posY="-260.0"/>
+        <content>wypiszBlad()</content>
+        <connect ID="30"/>
+      </block>
+      <block id="30" type="IO">
+        <options displayComment="false"/>
+        <visual color="255 255 0" posX="250.0" posY="-180.0"/>
+        <content>wypisz "Błędne dane"</content>
+        <connect ID="31"/>
+      </block>
+      <block id="31" type="RETURN">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="250.0" posY="-100.0"/>
+        <content>end</content>
+        <comment>END</comment>
+      </block>
+      <block id="32" type="SCRIPT">
+        <options displayComment="true"/>
+        <visual color="255 255 0" posX="-220.0" posY="140.0"/>
+        <comment>wypisz Blad</comment>
+        <connect ID="2"/>
+        <scriptName>wypisz Blad</scriptName>
+      </block>
+    </blocks>
+  </flowchart>
+</JavaBlocks>

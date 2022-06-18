@@ -1,0 +1,32 @@
+podajA(){
+	podaj a
+	return a
+}
+
+podajB(){
+	podaj b
+	return b
+}
+
+obliczPole(a,b){
+	return a*b
+}
+
+obliczObw(a,b){
+	return 2*a + 2*b
+}
+
+wypiszObw(obw){
+	wypisz obw
+}
+
+wypiszPole(pole){
+	wypisz pole
+}
+
+a = podajA()
+b = podajB()
+pole = obliczPole(a,b)
+obw = obliczObw(a,b)
+wypiszPole(pole)
+wypiszObw(obw)

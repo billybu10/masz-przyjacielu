@@ -1,0 +1,7 @@
+while ((a <= 0) lub (b <= 0))
+	podaj a,b
+	wypisz "Bok nie może byc mniejszy lub równy zero"
+pole = a*b
+obw = 2*a + 2*b
+wypisz pole
+wypisz obw

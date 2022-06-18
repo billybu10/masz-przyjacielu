@@ -1,0 +1,13 @@
+podaj a,b
+if a<=0
+then
+	wypisz "Dane nie poprawne"
+else
+	if b<=0 
+	then	
+		wypisz "Bok nie może byc mniejszy lub równy zero"
+	else
+		pole = a*b
+		obw = 2*a + 2*b
+		wypisz pole
+		wypisz obw

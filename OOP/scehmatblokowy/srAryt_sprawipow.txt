@@ -1,0 +1,9 @@
+podaj ocenaPolski
+podaj ocenaAng
+podaj ocenaMat
+podaj ocenaInf
+while ((ocenaAng % 1 > 0) lub (ocenaMat % 1 > 0) lub (ocenaPolski % 1 > 0) lub (ocenaInf % 1 > 0)) lub ((ocenaPolski > 6) lub (ocenaPolski < 1) lub (ocenaMat > 6) lub (ocenaMat < 1) lub (ocenaAng > 6) lub (ocenaAng < 1) lub (ocenaInf > 6) lub (ocenaInf < 1))
+	wypisz "Dane nie poprawne" 	
+suma = ocenaPolski + ocenaMat + ocenaAng + ocenaInf
+srednia = suma/4
+wypisz srednia

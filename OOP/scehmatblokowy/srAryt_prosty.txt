@@ -1,0 +1,7 @@
+podaj ocenaPolski
+podaj ocenaAng
+podaj ocenaMat
+podaj ocenaInf
+suma = ocenaPolski + ocenaMat + ocenaAng + ocenaInf
+srednia = suma/4
+wypisz srednia

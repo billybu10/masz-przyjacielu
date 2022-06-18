@@ -1,0 +1,13 @@
+podaj ocenaPolski
+podaj ocenaAng
+podaj ocenaMat
+podaj ocenaInf
+if (ocenaAng % 1 > 0) lub (ocenaMat % 1 > 0) lub (ocenaPolski % 1 > 0) lub (ocenaInf % 1 > 0)
+then
+	wypisz "Dane nie poprawne"
+else
+	if (ocenaPolski <= 6) oraz (ocenaPolski >= 1) oraz (ocenaMat <= 6) oraz (ocenaMat >= 1) oraz (ocenaAng <= 6) oraz (ocenaAng >= 1) oraz (ocenaInf <= 6) oraz (ocenaInf >= 1) 
+	then	
+		suma = ocenaPolski + ocenaMat + ocenaAng + ocenaInf
+		srednia = suma/4
+		wypisz srednia

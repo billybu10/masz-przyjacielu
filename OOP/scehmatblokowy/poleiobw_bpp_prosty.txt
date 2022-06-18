@@ -1,0 +1,5 @@
+podaj a,b
+pole = a*b
+obw = 2*a + 2*b
+wypisz pole
+wypisz obw
