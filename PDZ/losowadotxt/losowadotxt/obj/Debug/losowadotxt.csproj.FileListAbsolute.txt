@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\losowadotxt\losowadotxt\bin\Debug\losowadotxt.exe.config
+D:\Robotaju\PDZ\losowadotxt\losowadotxt\bin\Debug\losowadotxt.exe
+D:\Robotaju\PDZ\losowadotxt\losowadotxt\bin\Debug\losowadotxt.pdb
+D:\Robotaju\PDZ\losowadotxt\losowadotxt\obj\Debug\losowadotxt.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\losowadotxt\losowadotxt\obj\Debug\losowadotxt.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\losowadotxt\losowadotxt\obj\Debug\losowadotxt.exe
+D:\Robotaju\PDZ\losowadotxt\losowadotxt\obj\Debug\losowadotxt.pdb
