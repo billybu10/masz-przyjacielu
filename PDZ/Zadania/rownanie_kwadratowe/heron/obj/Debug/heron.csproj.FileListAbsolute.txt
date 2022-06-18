@@ -1,0 +1,6 @@
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\heron\bin\Debug\heron.exe.config
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\heron\bin\Debug\heron.exe
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\heron\bin\Debug\heron.pdb
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\heron\obj\Debug\heron.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\heron\obj\Debug\heron.exe
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\heron\obj\Debug\heron.pdb

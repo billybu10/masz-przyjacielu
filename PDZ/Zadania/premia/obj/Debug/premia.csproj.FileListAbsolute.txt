@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\Zadania\premia\obj\Debug\premia.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\premia\bin\Debug\premia.exe.config
+D:\Robotaju\PDZ\Zadania\premia\bin\Debug\premia.exe
+D:\Robotaju\PDZ\Zadania\premia\bin\Debug\premia.pdb
+D:\Robotaju\PDZ\Zadania\premia\obj\Debug\premia.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\Zadania\premia\obj\Debug\premia.exe
+D:\Robotaju\PDZ\Zadania\premia\obj\Debug\premia.pdb

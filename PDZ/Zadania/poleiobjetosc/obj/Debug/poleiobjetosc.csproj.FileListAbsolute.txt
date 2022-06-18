@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\Zadania\poleiobjetosc\bin\Debug\poleiobjetosc.exe.config
+D:\Robotaju\PDZ\Zadania\poleiobjetosc\bin\Debug\poleiobjetosc.exe
+D:\Robotaju\PDZ\Zadania\poleiobjetosc\bin\Debug\poleiobjetosc.pdb
+D:\Robotaju\PDZ\Zadania\poleiobjetosc\obj\Debug\poleiobjetosc.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\poleiobjetosc\obj\Debug\poleiobjetosc.exe
+D:\Robotaju\PDZ\Zadania\poleiobjetosc\obj\Debug\poleiobjetosc.pdb
+D:\Robotaju\PDZ\Zadania\poleiobjetosc\obj\Debug\poleiobjetosc.csprojAssemblyReference.cache

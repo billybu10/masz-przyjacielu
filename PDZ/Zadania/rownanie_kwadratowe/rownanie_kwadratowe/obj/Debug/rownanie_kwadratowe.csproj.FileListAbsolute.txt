@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\rownanie_kwadratowe\bin\Debug\rownanie_kwadratowe.exe.config
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\rownanie_kwadratowe\bin\Debug\rownanie_kwadratowe.exe
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\rownanie_kwadratowe\bin\Debug\rownanie_kwadratowe.pdb
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\rownanie_kwadratowe\obj\Debug\rownanie_kwadratowe.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\rownanie_kwadratowe\obj\Debug\rownanie_kwadratowe.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\rownanie_kwadratowe\obj\Debug\rownanie_kwadratowe.exe
+D:\Robotaju\PDZ\Zadania\rownanie_kwadratowe\rownanie_kwadratowe\obj\Debug\rownanie_kwadratowe.pdb
