@@ -1,0 +1,7 @@
+D:\Robotaju\PDZ\Zadania\wentylatorek\wentylatorek\bin\Debug\wentylatorek.exe.config
+D:\Robotaju\PDZ\Zadania\wentylatorek\wentylatorek\bin\Debug\wentylatorek.exe
+D:\Robotaju\PDZ\Zadania\wentylatorek\wentylatorek\bin\Debug\wentylatorek.pdb
+D:\Robotaju\PDZ\Zadania\wentylatorek\wentylatorek\obj\Debug\wentylatorek.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\Zadania\wentylatorek\wentylatorek\obj\Debug\wentylatorek.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\wentylatorek\wentylatorek\obj\Debug\wentylatorek.exe
+D:\Robotaju\PDZ\Zadania\wentylatorek\wentylatorek\obj\Debug\wentylatorek.pdb
