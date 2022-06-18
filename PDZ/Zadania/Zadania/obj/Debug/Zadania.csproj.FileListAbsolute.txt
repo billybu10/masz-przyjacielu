@@ -1,0 +1,14 @@
+C:\Users\1E PDZ\Documents\Zadania\Zadania\Zadania\obj\Debug\Zadania.csprojAssemblyReference.cache
+C:\Users\1E PDZ\Documents\Zadania\Zadania\Zadania\obj\Debug\Zadania.csproj.CoreCompileInputs.cache
+C:\Users\1E PDZ\Documents\Zadania\Zadania\Zadania\bin\Debug\Zadania.exe.config
+C:\Users\1E PDZ\Documents\Zadania\Zadania\Zadania\bin\Debug\Zadania.exe
+C:\Users\1E PDZ\Documents\Zadania\Zadania\Zadania\bin\Debug\Zadania.pdb
+C:\Users\1E PDZ\Documents\Zadania\Zadania\Zadania\obj\Debug\Zadania.exe
+C:\Users\1E PDZ\Documents\Zadania\Zadania\Zadania\obj\Debug\Zadania.pdb
+D:\Robotaju\PDZ\Zadania\Zadania\bin\Debug\Zadania.exe.config
+D:\Robotaju\PDZ\Zadania\Zadania\bin\Debug\Zadania.exe
+D:\Robotaju\PDZ\Zadania\Zadania\bin\Debug\Zadania.pdb
+D:\Robotaju\PDZ\Zadania\Zadania\obj\Debug\Zadania.csprojAssemblyReference.cache
+D:\Robotaju\PDZ\Zadania\Zadania\obj\Debug\Zadania.csproj.CoreCompileInputs.cache
+D:\Robotaju\PDZ\Zadania\Zadania\obj\Debug\Zadania.exe
+D:\Robotaju\PDZ\Zadania\Zadania\obj\Debug\Zadania.pdb
