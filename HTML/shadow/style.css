@@ -1,0 +1,35 @@
+#txt{
+    font-family: Verdana, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: turquoise;
+    text-shadow: 0 3px 0 white, 0 6px 0, 0 9px 0 white, 0 12px 0;
+}
+#p1{
+    background-color: pink;
+    width: 50%;
+    height: 60px;
+    border-radius: 25px;
+    box-shadow: 6px 6px 8px grey;
+}
+#p2{
+    background-color: pink;
+    width: 50%;
+    height: 60px;
+    border-radius: 25px;
+    box-shadow: -6px -6px 8px grey inset;
+}
+#p3{
+    background-color: pink;
+    width: 50%;
+    height: 60px;
+    border-radius: 25px;
+    box-shadow: 6px 6px 0 grey;
+}
+#p4{
+    background-color: pink;
+    width: 50%;
+    height: 60px;
+    border-radius: 25px;
+    box-shadow: 3px 3px 0 white, 6px 6px 0 pink, 9px 9px 0 white, 12px 12px 0 pink;
+}

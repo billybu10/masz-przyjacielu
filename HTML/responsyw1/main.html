@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Responsywny</title>
+    <style>
+        #jeden {
+            background-color: green;
+            width: 700px;
+            height: 200px;
+            margin: auto;
+            margin-bottom: 10px;
+        }
+        
+        #dwa {
+            background-color: blue;
+            width: 700px;
+            height: 200px;
+            margin: auto;
+        }
+        
+        @media only screen and (max-width: 700px) {
+            #jeden {
+                background-color: red;
+            }
+            #dwa {
+                background-color: red;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="jeden"> </div>
+    <div id="dwa"> </div>
+</body>
+
+</html>

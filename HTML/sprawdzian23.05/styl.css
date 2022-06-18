@@ -1,0 +1,58 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: crimson;
+}
+h2{
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+}
+h3{
+    margin-top: 10px;
+}
+#baner{
+    color: white;
+    text-align: center;
+    height: 370px;
+}
+.przycisk{
+    color: white;
+    text-align: center;
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.przycisk:hover{
+    border-color: white;
+}
+#glowny{
+    background-color: whitesmoke;
+    height: 50px;
+    clear: both;
+}
+#lewy{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 230px;
+    float: left;
+}
+#prawy{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    float: right;
+}
+.wynik{
+    font-weight: bold;
+}
+form{
+    margin-left: 10px;
+}
+#repr{
+    margin-bottom: 0;
+}

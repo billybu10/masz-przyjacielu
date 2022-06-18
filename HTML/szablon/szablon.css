@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    overflow: hidden;
+}
+.kolumny{
+    float: left;
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin: 10px 15px;
+}
+#stopka{
+    clear: both;
+    background-color: lightgray;
+    width: 100%;
+    text-align: center;
+}
+#naglowek{
+    background-color: lightpink;
+    width: 100%;
+}
+#ramka{
+    width: 1000px;
+    margin: auto;
+}
+#kol1{
+    background-color: darkcyan;
+}
+#kol2{
+    background-color: yellow;
+}
+#kol3{
+    background-color: orange;
+}

@@ -1,0 +1,118 @@
+ html, body {
+        background-color:#E8E5DC;
+        font-family:verdana,arial,sans-serif;
+        font-style:normal;
+        font-weight:normal;
+        font-size:10pt;
+        color:#174074;
+        width:900px;
+         margin:0 auto;
+}
+
+header, article, aside, footer
+{ 
+display:block; 
+}
+  
+
+header {
+        margin:0 0 0 0;
+        width:900px;
+        background-color:#ffffff;
+        overflow: hidden;    
+}
+
+article {
+       float:left; 
+       margin: 0 0 0 0;
+       width:900px;
+       background-color:#ffffff;     
+}
+   
+footer {
+       width:892px;
+       background:#174074; 
+       color: #ffffff;
+       text-align:center; 
+       padding: 4px 4px 4px 4px; 
+       font-weight:bold; 
+       clear:both;
+}
+
+p {
+       margin-right: 20px;
+       margin-left: 20px;
+       text-align:left; 
+}
+
+h1 { 
+      text-align:center; 
+      color:#174074;  
+      font-weight:bold; 
+      font-size:24px;
+      background-color:#ffffff;   
+}
+
+h2 {
+      text-align:center;  
+      font-weight:bold;
+      margin-left:18px;
+      margin-right:4px;
+      color: #009966;
+ }
+ 
+   .stopka {
+    text-align:center; 
+    font-weight:normal; 
+    margin:10px 20px 10px 20px;
+    color:#ffffff;
+
+}  
+
+.zdjecia{
+       margin: auto;
+       width: 740px;
+}
+.zdjyncieduze{
+    position: fixed;
+    left: 30%;
+    top: 10px;
+    display: none;
+}
+ 
+#malej:hover + img{
+    display: block;
+}
+#bj:hover{
+       display: block;
+}
+#maled:hover + img{
+       display: block;
+}
+#bd:hover{
+       display: block;
+}
+#malet:hover + img{
+       display: block;
+}
+#bt:hover{
+       display: block;
+}
+#malec:hover + img{
+       display: block;
+}
+#bc:hover{
+       display: block;
+}
+#malep:hover + img{
+       display: block;
+}
+#bp:hover{
+       display: block;
+}
+#males:hover + img{
+       display: block;
+}
+#bs:hover{
+       display: block;
+}

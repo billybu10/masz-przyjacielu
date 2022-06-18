@@ -1,0 +1,23 @@
+#jeden{
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    position: fixed;
+    left: 100px;
+    top: 100px;
+}
+#dwa{
+    height: 1000px;
+    width: 90px;
+    background-color: darkkhaki;
+}
+#trzy{
+    height: 300px;
+    width: 500px;
+    background-color: aquamarine;
+}
+#cztery{
+    height: 30px;
+    width: 100px;
+    background-color: fuchsia;
+}

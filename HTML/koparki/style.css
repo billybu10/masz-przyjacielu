@@ -1,0 +1,57 @@
+@media only screen and (min-width: 1000px) {
+    ul li {
+        list-style-type: none;
+        padding: 10px;
+        display: inline-block;
+        font-size: 40px;
+        background-color: cyan;
+        color: grey;
+        font-weight: bold;
+        border: 2px solid red;
+        transition-property: color, background;
+        transition-duration: 1s;
+    }
+    ul li:hover {
+        color: red;
+        background-color: green;
+        border: 2px solid grey;
+    }
+    #k2 {
+        display: none;
+    }
+    * {
+        text-align: center;
+    }
+}
+
+@media only screen and (width: 1200px) {
+    * {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #k1 {
+        display: none;
+    }
+}
+
+@media (orientation: portrait) {
+    ul li {
+        list-style-type: none;
+        padding: 10px;
+        display: inline-block;
+        font-size: 20px;
+        color: cyan;
+        background-color: grey;
+        border: 5px dotted brown;
+    }
+    ul li:hover {
+        color: red;
+        background-color: green;
+        border: 5px dotted grey;
+    }
+    #k2 {
+        display: none;
+    }
+}

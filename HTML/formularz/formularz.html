@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Pozycjonowanie</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="formularz.css" type="text/css">
+    </head>
+    <body>
+        <form>
+            <h3>Wystylizowany formularz</h3>
+            <fieldset>
+                <legend><span>Sekcja 1 - Podstawowe kontrolki</span></legend>
+                <br>
+                <section>*wymagane pole
+                    <br><br>
+                    <label for="nick">Nazwa użytkownika<span>*</span></label><input type="text" name="nick" >
+                    <br><br>
+                    <p>Podaj nazwę użytkownika</p>
+                    <br><br>
+                </section>
+                <section>
+                    <label for="haslo">Hasło<span>*</span></label><input type="password" name="haslo" >
+                    <br><br>
+                    <p>Podaj nazwę użytkownika</p>
+                    <br><br>
+                </section>
+                <section>
+                    <label for="opis">Opis</label><textarea name="opis" rows="3" cols="20"></textarea>
+                </section>
+            </fieldset>
+            <fieldset>
+                <legend><span>Sekcja 2 - Kontrolki wielokrotnego wyboru</span></legend>
+                <br>
+                <h4>Zaznacz dowolną ilość kratek</h4>
+                <section> 
+                    <section>
+                        <input type="checkbox" name="w" value="1"><label>Opcja 1</label
+                    </section>
+                    <section>
+                        <input type="checkbox" name="w" value="2"><label>Opcja 2</label>
+                    </section>
+                    <section>
+                        <input type="checkbox" name="w" value="3"><label>Opcja 3</label>
+                    </section>
+                </section>
+                    <b>Wybierz tylko jedną opcję</b><br>
+                    <input type="radio" name="wa" value="1" checked>Opcja 1 jest wstępnie zaznaczona<br>
+                <input type="radio" name="wa" value="2">Opcja 2<br>
+                <input type="radio" name="wa" value="3">Opcja 3<br>
+                Wybierz<select name="wb">
+                <option>brak</option>
+                <option>Opcja 1</option>
+                <option>Opcja 2</option>
+                <option>Opcja 3</option>
+                <option>Opcja 4</option>
+            </select>
+            </fieldset>
+            <input type="submit" value="Zatwierdź">
+        </form>
+    </body>
+</html>

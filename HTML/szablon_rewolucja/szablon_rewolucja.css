@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    overflow: hidden;
+}
+.kolumny{
+    float: left;
+    margin: 10px 15px;
+    background-color: lightgray;
+    font-size: ;
+}
+#stopka{
+    clear: both;
+    background-color: lightgray;
+    width: 100%;
+    text-align: center;
+}
+#naglowek{
+    background-color: lightpink;
+    width: 100%;
+}
+article{
+    background-color: lavender;
+    margin: 10px 30px;
+    padding: 10px;
+}
+#kol1{
+    width: 20%;
+}
+#kol2{
+    width: 60%;
+}
+#kol3{
+    width: 15%;
+}
+ul>li{
+    margin: 10px 20px;
+    list-style-type: none;
+}

@@ -1,0 +1,52 @@
+@media only screen and (max-width: 1000px) {
+    ul li {
+        list-style-type: none;
+        padding: 10px;
+        font-size: 20px;
+        background-color: lime;
+        color: blue;
+        width: 10%;
+        text-align: center;
+        border: 3px solid red;
+        margin-top: 5px;
+    }
+    #k1 {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 684px) {
+    ul li {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 528px) {
+    ul li {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 368px) {
+    ul li {
+        width: 15%;
+    }
+}
+
+@media only screen and (max-width: 266px) {
+    ul li {
+        width: 20%;
+    }
+}
+
+@media only screen and (max-width: 213px) {
+    ul li {
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 182px) {
+    ul li {
+        width: 30%;
+    }
+}
